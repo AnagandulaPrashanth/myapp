@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_name: MyString
+  company: MyString
+  mdate: 2017-02-10
+  edate: 2017-02-10
+
+two:
+  item_name: MyString
+  company: MyString
+  mdate: 2017-02-10
+  edate: 2017-02-10
